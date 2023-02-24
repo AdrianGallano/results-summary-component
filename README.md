@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/AdrianGallano/results-summary-component-main)
-- Live Site URL: [Live url](https://adriangallano.github.io/results-summary-component-main/)
+- Solution URL: [Solution](https://github.com/AdrianGallano/results-summary-component)
+- Live Site URL: [Live url](https://adriangallano.github.io/results-summary-component/)
 
 
 ### Built with
